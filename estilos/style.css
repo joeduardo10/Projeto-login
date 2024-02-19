@@ -3,3 +3,7 @@
 Verde: #49a09d
 lilas: #5f2c82
 */
+*{
+    margin: 1000px;
+    padding: 0px;
+}
